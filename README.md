@@ -9,11 +9,11 @@ This project analyzes over 700,000 Amazon beauty product reviews to uncover patt
 - Excel (initial exploration and validation)
 
 ## Key Business Questions
-- Do reviews with images receive more helpful votes?
-- Do verified buyers leave more positive reviews?
-- How are customer ratings distributed across products?
-- How does review volume vary by rating level?
-- What common phrases appear most frequently in reviews?
+- Which beauty products have the highest average customer ratings?
+- Which products show polarized customer feedback, indicated by a mix of high and low ratings?
+- Do verified buyers tend to leave more positive reviews than non-verified buyers?
+- What keywords appear most frequently in positive versus negative customer reviews?
+- Do reviews that include images receive more helpful votes than reviews without images?
 
 ## Key Insights
 - Reviews with images receive significantly more helpful votes than those without.
