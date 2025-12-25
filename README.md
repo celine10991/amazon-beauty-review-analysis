@@ -28,4 +28,4 @@ This project analyzes over 700,000 Amazon beauty product reviews to uncover patt
 - Insight-driven visual analysis suitable for business and consulting contexts
 
 ## Preview
-![Dashboard Preview](./Project - )
+![Dashboard Preview](dashboard.png)
